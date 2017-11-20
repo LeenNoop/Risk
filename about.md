@@ -1,11 +1,7 @@
-YAML Front Matter
 
 ---
 title: About
 ---
 
-# About this project
+# About Risk
 
-In a word: **Awesome!**
-
-See the [Home page](/website--theme/README.md)
